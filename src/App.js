@@ -19,6 +19,10 @@ export default function App() {
             target="_blank"
           >
             open-sourced on GitHub
+          </a>{" "}
+          and{" "}
+          <a href="" target="_blank">
+            hosted on Netlify
           </a>
         </footer>
       </div>
